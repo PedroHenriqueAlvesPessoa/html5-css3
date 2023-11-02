@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "angelia beauty";
+  src: url(fonts/Angelia\ Beauty.ttf) format(opentype);
+  font-weight: normal;
+  font-style: normal;
+
+  font-family: "felling lovely";
+  src: url(fonts/Feeling\ Lovely.ttf) format(opentype);
+  font-weight: normal;
+  font-style: normal;
+}
+h1{
+  font-family: "angelia beauty";
+}
+
+p{
+  font-family: "felling lovely";
+  font-size: 3em;
+}
